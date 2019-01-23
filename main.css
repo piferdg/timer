@@ -1,0 +1,37 @@
+#timer-box {
+  border: 1px solid black;
+  max-width: 50%;
+  text-align: center;
+  color: orange;
+}
+
+#main-time-input-box {
+  border: 1px solid black;
+  max-width: 50%;
+}
+
+#main-time-input-box h5 {
+  margin: 2%;
+}
+
+#countdown {
+  margin: 2%;
+  text-align: center
+}
+
+.input-and-button-container {
+  display: flex;
+}
+
+#seconds-input {
+  margin: 2%;
+}
+
+.start-button {
+  margin: 2%;
+}
+
+
+
+
+

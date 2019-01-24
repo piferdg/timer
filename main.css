@@ -1,13 +1,16 @@
+#timer {
+  max-width: 50%;
+
+}
+
 #timer-box {
   border: 1px solid black;
-  max-width: 50%;
   text-align: center;
   color: orange;
 }
 
 #main-time-input-box {
   border: 1px solid black;
-  max-width: 50%;
 }
 
 #main-time-input-box h5 {
